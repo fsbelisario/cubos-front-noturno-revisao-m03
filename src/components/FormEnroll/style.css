@@ -1,0 +1,10 @@
+.enroll {
+    padding-right: 60px;
+    border-right: solid 1px #C4C4C4;
+}
+
+.enroll {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

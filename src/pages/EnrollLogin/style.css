@@ -1,0 +1,19 @@
+.container {
+    background-color: #88C2CF;
+    height: 100vh;
+    display: flex;
+}
+
+.enroll {
+    padding-right: 60px;
+    border-right: solid 1px #C4C4C4;
+}
+
+.login {
+    padding-left: 60px;
+}
+.enroll, .login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
